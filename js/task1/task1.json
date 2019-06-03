@@ -1,0 +1,32 @@
+[
+  {"x": "Jan",
+  "grp_y": 1,
+  "y": "Vasya",
+  "val": 9
+  },
+  {"x": "Jan",
+  "grp_y": 2,
+  "y": "Petya",
+  "val": 3
+  },
+  {"x": "Mar",
+  "grp_y": 1,
+  "y": "Vasya",
+  "val": 6
+  },
+  {"x": "Mar",
+  "grp_y": 2,
+  "y": "Petya",
+  "val": 4
+  },
+  {"x": "Feb",
+  "grp_y": 2,
+  "y": "Petya",
+  "val": 2
+  },
+  {"x": "Dec",
+  "grp_y": 5,
+  "y": "Zhora",
+  "val": "6"
+  }
+]

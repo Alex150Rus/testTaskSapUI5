@@ -1,0 +1,41 @@
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.borderRight{
+  border-right: 0
+}
+
+.borderLeftRight {
+  border-left: 0;
+  border-right: 0;
+}
+
+.borderLeft {
+  border-left: 0;
+}
+
+.thead, thead {
+  font-weight: bold;
+  text-align: center;
+}
+
+td {
+  padding: 5px;
+}
+
+#divWrapper {
+  margin-bottom: 10px
+}
+
+#label1 {
+  margin-right: 10px;
+}
+
+#label2 {
+  margin: 0 20px 0 10px;
+}
